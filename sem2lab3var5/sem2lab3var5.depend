@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1587630497 source:c:\users\grini\yandexdisk\sem2lab3var5\main.cpp
+	<iostream>
+	"product.h"
+	"fruit.h"
+	"milks.h"
+	"grocery.h"
+
+1586251082 source:c:\users\grini\yandexdisk\sem2lab3var5\classes\product.cpp
+	"product.h"
+
+1586250527 c:\users\grini\yandexdisk\sem2lab3var5\classes\product.h
+	<string>
+
+1587626869 c:\users\grini\yandexdisk\sem2lab3var5\product.h
+	<iostream>
+	<string>
+
+1587623952 source:c:\users\grini\yandexdisk\sem2lab3var5\product.cpp
+	"product.h"
+
+1587626475 source:c:\users\grini\yandexdisk\sem2lab3var5\fruit.cpp
+	"fruit.h"
+
+1587626198 c:\users\grini\yandexdisk\sem2lab3var5\fruit.h
+	"product.h"
+
+1587629887 source:c:\users\grini\yandexdisk\sem2lab3var5\milks.cpp
+	"milks.h"
+
+1587629850 c:\users\grini\yandexdisk\sem2lab3var5\milks.h
+	"product.h"
+
+1587630747 source:c:\users\grini\yandexdisk\sem2lab3var5\grocery.cpp
+	"grocery.h"
+
+1587630717 c:\users\grini\yandexdisk\sem2lab3var5\grocery.h
+	"product.h"
+
